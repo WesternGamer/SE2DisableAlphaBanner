@@ -2,6 +2,7 @@
 using Keen.VRage.Library.Diagnostics;
 using HarmonyLib;
 using System.Reflection;
+
 namespace SE2DisableAlphaBanner
 {
     public class Plugin : IPlugin
